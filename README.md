@@ -4,7 +4,6 @@ This branch developed for the phase two of AI project focused on anomaly detecti
 1. Download the source code from this branch in the repository.
 2. Install the required libraries from the `requirements.txt` file.
 # Usage
-Firstly, open file `main.py` and in line 103 replace path video in this line.
 To run the script following command:
 ```python
 python .\main.py --input_video path/to/video.mp4 --output_path path/to/output/chart.png
